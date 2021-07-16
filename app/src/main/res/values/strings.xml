@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--buttons -->
+    <string name="app_name">Listeners&amp;Intent</string>
+    <string name="btn_first">First</string>
+    <string name="btn_second">Second</string>
+    <string name="btn_third">Third</string>
+
+
+    <string name="say_hello">Hello</string>
+</resources>
